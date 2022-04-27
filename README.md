@@ -9,8 +9,8 @@
 ![image](https://user-images.githubusercontent.com/52472485/165582554-8f929355-bd16-4ef3-a60c-6f4c34d5e05f.png)
 
 
-# How to run the project?
-## With google colab
+## How to run the project?
+### With google colab
     - Clone this repository
     - To do update archive .ipynb in google colab
     - update archives in folder database in source folder google colab
