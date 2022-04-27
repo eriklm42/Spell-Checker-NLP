@@ -6,10 +6,10 @@
   - V1: The first version was made a corrector that solves simpler errors. Although it fails to fix grotesque errors, in our mass of tests it performed better in most cases.
   - V2: The second version solves more complex cases, which many times even we (humans) would not be able to understand a word, but in our test mass it objects to an overall result lower than the first version.
 
-# V1 result is correct
+### V1 result is correct
 ![image](https://user-images.githubusercontent.com/52472485/165583122-1e6062d6-5579-40e6-b0ae-6c4dacaad968.png)
 
-# V2 result is correct
+### V2 result is correct
 ![image](https://user-images.githubusercontent.com/52472485/165582554-8f929355-bd16-4ef3-a60c-6f4c34d5e05f.png)
 
 
